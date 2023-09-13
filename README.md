@@ -58,3 +58,4 @@ It is strongly recommended for you to complete at least one challenge if the pro
 ## Contact
 
 If you have any questions, concerns, or bug reports, don't hesitate to contact Casper at casperg@umich.edu.
+# MDST_Checkpoints
